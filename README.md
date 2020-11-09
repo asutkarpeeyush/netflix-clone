@@ -1,4 +1,5 @@
-# The project is hosted at https://netflix-clone-4985b.web.app/
+# The project is hosted at:
+https://netflix-clone-4985b.web.app/
 
 # Getting Started with Create React App
 
